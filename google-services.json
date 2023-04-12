@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116194366358",
+    "project_id": "samvad-baatein-khul-kar",
+    "storage_bucket": "samvad-baatein-khul-kar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116194366358:android:f45c82407e9047741e03b7",
+        "android_client_info": {
+          "package_name": "com.chat.samvad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116194366358-dm6h7nog0en91tml1genren6419tg2ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFnyypmUNNBTVHCVsJuT2sM-kenEFe-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116194366358-dm6h7nog0en91tml1genren6419tg2ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
